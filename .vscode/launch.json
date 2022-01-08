@@ -1,0 +1,56 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SecondValue",
+            "request": "launch",
+            "mainClass": "SecondValue",
+            "projectName": "Java_472218d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch CenterValue",
+            "request": "launch",
+            "mainClass": "CenterValue",
+            "projectName": "Java_472218d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java_472218d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kadai01",
+            "request": "launch",
+            "mainClass": "kadai.Kadai01",
+            "projectName": "Java_472218d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jishu01",
+            "request": "launch",
+            "mainClass": "Jishu01",
+            "projectName": "Java_472218d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_472218d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
