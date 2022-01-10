@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "chapter01/kadai01/src",
         "chapter01/kadai02/src"
-    ]
+    ],
+    "files.encoding": "shiftjis",
 }
